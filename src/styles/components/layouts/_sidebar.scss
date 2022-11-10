@@ -1,0 +1,14 @@
+@layer components {
+  .sidebar-section {
+    .c-fill-white {
+      path {
+        fill: #fff;
+      }
+    }
+    .c-fill-gray {
+      path {
+        fill: $c-gray-1;
+      }
+    }
+  }
+}
